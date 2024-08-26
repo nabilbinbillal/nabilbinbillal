@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Nabil Bin Billal, a passionate developer and c
 
 - **📫 How to reach me:**
   - **[Portfolio](https://nabil.bidibo.xyz)**
-  - **[Facebook](https://www.facebook.com/bidiboscience)**
+  - **[Facebook](https://www.facebook.com/nabilbinbillal)**
 
 ### 🛠️ Skills & Technologies
 
