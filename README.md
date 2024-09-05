@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Nabil Bin Billal, a passionate developer and c
   - [KBKh Chatroom Project](#)
   - [Bidibo Translator Plugin](https://plugins.bidibo.xyz/)
   
-- **🌱 I’m currently learning:** Advanced React.js, Node.js, and improving my scientific writing skills.
+- **🌱 I’m currently learning:** Advanced Next.js React.js, Node.js, and improving my scientific writing skills.
 
 - **👯 I’m looking to collaborate on:** Open-source projects, web development, and scientific research.
 
