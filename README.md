@@ -16,15 +16,18 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 
 - 🌱 **Currently Learning:** Advanced **Next.js**, **React.js**, **Node.js**, **Flutter**, and enhancing my scientific writing skills.
 
+- 🌿 **Contributing To:** The **3ZERO Club**, focusing on **climate change** and **environmental** activities to promote a sustainable future.
+
 - 👯 **Looking to Collaborate On:** Open-source projects, web development, Android app development, and scientific research.
 
-- 💬 **Ask Me About:** **MERN stack**, Android development, WordPress, or anything tech-related!
+- 💬 **Ask Me About:** **MERN stack**, Android development, WordPress, climate change, or anything tech-related!
 
 ---
 
 ## 📫 **How to Reach Me**
 
 <p align="left">
+  <a href="mailto:nabilbinbillal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://nabil.bidibo.xyz" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.facebook.com/nabilbinbillal" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.linkedin.com/in/nabilbinbillal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
