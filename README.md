@@ -98,6 +98,7 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 </div>
 
 ---
-
+<div align="center">
 ### **Nabil Bin Billal (Bidibo)**
 - *Web Developer, Content Writer, Moderator*
+</div>
