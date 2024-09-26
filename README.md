@@ -99,7 +99,9 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 
 ---
 <div align="center">
-  <h3 style="font-weight: bold; margin: 10px 0;">Nabil Bin Billal (Bidibo)</h3>
+  <h3 style="font-weight: bold; margin: 10px 0;">
+    <a href="https://nabilbinbillal.github.io" style="text-decoration: none; color: inherit;">Nabil Bin Billal (Bidibo)</a>
+  </h3>
   <p style="font-weight: bold; font-style: italic; margin: 5px 0;">Web Developer | Content Writer | Moderator</p>
-  <a href="https://nabilbinbillal.github.io" style="text-decoration: none; color: #007bff; font-weight: bold;">nabilbinbillal.github.io</a>
 </div>
+
