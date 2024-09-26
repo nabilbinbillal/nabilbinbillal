@@ -1,4 +1,7 @@
-<img src="https://nabil.bidibo.xyz/jsm-logo.png" alt="Nabil Bin Billal" width="150" height="150" style="border-radius:50%; margin-bottom:15px;">
+<div align="center">
+  <img src="https://nabil.bidibo.xyz/jsm-logo.png" alt="Nabil Bin Billal" width="150" height="150" style="border-radius: 50%; margin-bottom: 15px; object-fit: cover;">
+</div>
+
 
 # Hi there, I'm Nabil Bin Billal 👋
 
