@@ -1,3 +1,5 @@
+<img src="https://nabil.bidibo.xyz/jsm-logo.png" alt="Nabil Bin Billal" width="150" height="150" style="border-radius:50%; margin-bottom:15px;">
+
 # Hi there, I'm Nabil Bin Billal 👋
 
 **🌐 Web Developer | 💻 MERN Stack Developer | 📱 Android Developer | 🌟 WordPress Developer | 🖊️ Content Writer | 🛡️ Moderator**
@@ -65,6 +67,17 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 ### **Other Tools & Technologies:**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+## ✍️ **Content Creation & Writing**
+
+- **Scientific Writing, Blogging, Fact-checking**
+- **Technology Writing & Scientific Research**
+- **Reference Links:**
+  - [Notun Protidin - Writer and Developer](https://www.notunprotidin.xyz/author/nabil-bin-billal/)
+  - [Bidibo News - Writer and Developer](https://bidibo.xyz/author/nabil-bin-billal)
+  - [Science Hub - Developed by Nabil Bin Billal](https://science.bidibo.xyz/)
 
 ---
 
