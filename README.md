@@ -83,8 +83,8 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 
 ## 🚀 **Projects**
 
-- **Bidibo News:(https://www.bidibo.xyz)** A trusted source for daily latest news.
-- **Notun Protidin:(https://www.notunprotidin.xyz)** A Bangla News Website.
+- **[Bidibo News:](https://www.bidibo.xyz)** A trusted source for daily latest news.
+- **[Notun Protidin:](https://www.notunprotidin.xyz)** A Bangla News Website.
 - **KBKh Chatroom:** A private chatroom with a focus on privacy, media management, and user-friendly UI.
 - **Bidibo Translator Plugin:** A WordPress plugin with URL transfer-based language switching.
 
