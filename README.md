@@ -97,15 +97,6 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilbinbillal&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
----
-<div align="center">
-  <h3 style="font-weight: bold; margin: 10px 0;">
-    <a href="https://nabilbinbillal.github.io" style="text-decoration: none; color: inherit;">Nabil Bin Billal (Bidibo)</a>
-  </h3>
-  <p style="font-weight: bold; font-style: italic; margin: 5px 0;">Web Developer | Content Writer | Moderator</p>
-</div>
-
-
 ## 🌐 **Social Profiles:**
 - **Facebook:** [https://www.facebook.com/nabilbinbillal](https://www.facebook.com/nabilbinbillal/)
 - **LinkedIn:** [https://www.linkedin.com/in/nabilbinbillal](https://www.linkedin.com/in/nabilbinbillal)
@@ -115,4 +106,15 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 - **GitHub:** [https://github.com/nabilbinbillal](https://github.com/nabilbinbillal)
 - **Threads:** [https://www.threads.net/@nabilbinbillal](https://www.threads.net/@nabilbinbillal)
 - **Portfolio:** [https://nabilbinbillal.github.io](https://nabilbinbillal.github.io)
+
+---
+<div align="center">
+  <h3 style="font-weight: bold; margin: 10px 0;">
+    <a href="https://nabilbinbillal.github.io" style="text-decoration: none; color: inherit;">Nabil Bin Billal (Bidibo)</a>
+  </h3>
+  <p style="font-weight: bold; font-style: italic; margin: 5px 0;">Web Developer | Content Writer | Moderator</p>
+</div>
+
+
+
 
