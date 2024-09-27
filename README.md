@@ -105,3 +105,14 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
   <p style="font-weight: bold; font-style: italic; margin: 5px 0;">Web Developer | Content Writer | Moderator</p>
 </div>
 
+
+## 🌐 **Social Profiles:**
+- **Facebook:** [https://www.facebook.com/nabilbinbillal](https://www.facebook.com/nabilbinbillal/)
+- **LinkedIn:** [https://www.linkedin.com/in/nabilbinbillal](https://www.linkedin.com/in/nabilbinbillal)
+- **Instagram:** [https://www.instagram.com/nabilbinbillal](https://www.instagram.com/nabilbinbillal/)
+- **YouTube:** [https://www.youtube.com/@NabilBinBillal](https://www.youtube.com/@NabilBinBillal)
+- **Twitter/X:** [https://x.com/nabilbinbillal](https://x.com/nabilbinbillal)
+- **GitHub:** [https://github.com/nabilbinbillal](https://github.com/nabilbinbillal)
+- **Threads:** [https://www.threads.net/@nabilbinbillal](https://www.threads.net/@nabilbinbillal)
+- **Portfolio:** [https://nabilbinbillal.github.io](https://nabilbinbillal.github.io)
+
