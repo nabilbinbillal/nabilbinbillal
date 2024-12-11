@@ -100,7 +100,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilbinbillal&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
-## 🌐 **সামাজিক প্রোফাইলস:**
+## 🌐 **সামাজিক যোগাযোগের মাধ্যমসমূহ:**
 - **ফেসবুক:** [https://www.facebook.com/nabilbinbillal](https://www.facebook.com/nabilbinbillal/)
 - **লিঙ্কডইন:** [https://www.linkedin.com/in/nabilbinbillal](https://www.linkedin.com/in/nabilbinbillal)
 - **ইনস্টাগ্রাম:** [https://www.instagram.com/nabilbinbillal](https://www.instagram.com/nabilbinbillal/)
