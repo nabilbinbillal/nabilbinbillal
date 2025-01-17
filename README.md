@@ -20,6 +20,13 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 
 - 🎓 **Education:** I am currently studying in the Science group at [Brahmanbaria Govt. College](https://bgc.edu.bd).
 
+- 🏆 **Achievements:**
+  - Earned a **Golden A+ with GPA 5** in the SSC exam.
+  - Represented Brahmanbaria Government College and secured **1st place** at the **National Science Fair 2025** ([Reference](https://www.linkedin.com/posts/nabilbinbillal_proudmoment-sciencefair-hsc2026-activity-7284583963136815104-Q6ZT)).
+  - Won the **National Math Olympiad** ([Profile Link](https://online.matholympiad.org.bd/profile/606972)).
+  - Secured **3rd place** in the **National Science Olympiad** ([Reference](https://www.linkedin.com/posts/nabilbinbillal_receiving-prize-for-securing-3rd-prize-in-activity-7284605520240357376-eUje)).
+
+
 🌿 **Contributing To:** The **[3ZERO Club](https://3zero.club/)** with a focus on **climate change** and **environmental** initiatives to promote a sustainable future. Additionally, serving as a moderator for two prominent science communities:
 - **কি... বিজ্ঞান খুঁজছেন [513k members+]** – [*Link:*](https://www.facebook.com/groups/777602136864885) https://www.facebook.com/groups/777602136864885
 - **বিজ্ঞান খুঁজে লাভ নাই [293k members+]** – [*Link:*](https://www.facebook.com/groups/1092290431877571) https://www.facebook.com/groups/1092290431877571)
