@@ -27,10 +27,15 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
   - Secured **3rd place** in the **National Science Olympiad** ([Reference](https://www.linkedin.com/posts/nabilbinbillal_receiving-prize-for-securing-3rd-prize-in-activity-7284605520240357376-eUje)).
 
 
-🌿 **Contributing To:** The **[3ZERO Club](https://3zero.club/)** with a focus on **climate change** and **environmental** initiatives to promote a sustainable future. Additionally, serving as a moderator for two prominent science communities:
-- **কি... বিজ্ঞান খুঁজছেন [513k members+]** – [*Link:*](https://www.facebook.com/groups/777602136864885) https://www.facebook.com/groups/777602136864885
-- **বিজ্ঞান খুঁজে লাভ নাই [293k members+]** – [*Link:*](https://www.facebook.com/groups/1092290431877571) https://www.facebook.com/groups/1092290431877571)
-- Working as a writer at the **[Science & Experiment](https://www.facebook.com/sciandexp)** science page.
+🌿 **Contributing To:**  
+The **[3ZERO Club](https://3zero.club/)** with a focus on **climate change** and **environmental** initiatives to promote a sustainable future. Additionally, serving as a moderator for two prominent science communities:
+- **কি... বিজ্ঞান খুঁজছেন [513k members+]** – A community of over 500k members dedicated to sharing and discussing scientific knowledge and discoveries. [*Link:*](https://www.facebook.com/groups/777602136864885)  
+- **বিজ্ঞান খুঁজে লাভ নাই [293k members+]** – A group with nearly 300k members focused on promoting scientific thinking and exploration. [*Link:*](https://www.facebook.com/groups/1092290431877571)  
+- Working as a writer at the **[Science & Experiment](https://www.facebook.com/sciandexp)** science page, where I contribute articles and insights to promote scientific knowledge and experiments.
+
+🌿 **Other Engagements:**  
+- **Secretary** of the **[Brahmanbaria Govt. College Science Club](https://bgc.edu.bd/science-club)**, overseeing club activities, events, and scientific discussions at Brahmanbaria Govt. College.  
+- Contributor at **[Teen Magazine](https://www.theteenmagazine.com/writers/nabil-bin-billal)**, where I write articles focused on education, science, and technology to inspire and inform a younger audience.
 
 - 👯 **Looking to Collaborate On:** Open-source projects, web development, Android app development, and scientific research.
 
@@ -42,11 +47,10 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 
 <p align="left">
   <a href="mailto:nabilbinbillal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nabil.bidibo.xyz" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://nabilbinbillal.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.facebook.com/nabilbinbillal" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.linkedin.com/in/nabilbinbillal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/nabilbinbillal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
-  <a href="https://nabilbinbillal.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="GitHub Pages"></a>
   <a href="https://www.youtube.com/@NabilBinBillal" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
   <a href="https://x.com/nabilbinbillal" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter/X"></a>
   <a href="https://www.instagram.com/nabilbinbillal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -87,17 +91,17 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 - **Scientific Writing, Blogging, Fact-checking**
 - **Technology Writing & Scientific Research**
 - **Reference Links:**
+  - [The Teen Magazine - Writer](https://www.theteenmagazine.com/writers/nabil-bin-billal))
   - [Notun Protidin - Writer and Developer](https://www.notunprotidin.xyz/author/nabil-bin-billal/)
   - [Bidibo News - Writer and Developer](https://bidibo.xyz/author/nabil-bin-billal)
-  - [Science Hub - Developed by Nabil Bin Billal](https://science.bidibo.xyz/)
+  - [Bidibo's Science Hub - Developed by Nabil Bin Billal](https://science.bidibo.xyz/)
 
 ---
 
 ## 🚀 **Projects**
-
+- **[Brahmanbaria Govt. College Science Club:](https://www.brahmanbariascienceclub.xyz)** A hub for scientific innovation and student collaboration.
 - **[Bidibo News:](https://www.bidibo.xyz)** A trusted source for daily latest news.
 - **[Notun Protidin:](https://www.notunprotidin.xyz)** A Bangla News Website.
-- **KBKh Chatroom:** A private chatroom with a focus on privacy, media management, and user-friendly UI.
 - **Bidibo Translator Plugin:** A WordPress plugin with URL transfer-based language switching.
 
 ---
@@ -109,15 +113,36 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilbinbillal&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
-## 🌐 **Social Profiles:**
-- **Facebook:** [https://www.facebook.com/nabilbinbillal](https://www.facebook.com/nabilbinbillal/)
-- **LinkedIn:** [https://www.linkedin.com/in/nabilbinbillal](https://www.linkedin.com/in/nabilbinbillal)
-- **Instagram:** [https://www.instagram.com/nabilbinbillal](https://www.instagram.com/nabilbinbillal/)
-- **YouTube:** [https://www.youtube.com/@NabilBinBillal](https://www.youtube.com/@NabilBinBillal)
-- **Twitter/X:** [https://x.com/nabilbinbillal](https://x.com/nabilbinbillal)
-- **GitHub:** [https://github.com/nabilbinbillal](https://github.com/nabilbinbillal)
-- **Threads:** [https://www.threads.net/@nabilbinbillal](https://www.threads.net/@nabilbinbillal)
-- **Portfolio:** [https://nabilbinbillal.github.io](https://nabilbinbillal.github.io)
+### 🌐 **Social Profiles:**
+- [Portfolio](https://nabilbinbillal.github.io)
+- [Resume](https://drive.google.com/file/d/1-UTkainhtBAIA2CtC_WQ3xmYHd6VHE2L/view?usp=drivesdk)
+- [Email](mailto:nabilbinbillal@gmail.com)
+- [Blog](https://nabilbinbillal.github.io/blog/)
+
+### 📱 **Social Media:**
+- [LinkedIn](https://www.linkedin.com/in/nabilbinbillal)
+- [Facebook](https://www.facebook.com/nabilbinbillal)
+- [Instagram](https://www.instagram.com/nabilbinbillal)
+- [Twitter](https://x.com/nabilbinbillal)
+- [GitHub](https://github.com/nabilbinbillal)
+- [Threads](https://www.threads.net/@nabilbinbillal)
+- [YouTube](https://www.youtube.com/@NabilBinBillal)
+
+### 📚 **Other Links:**
+- [Nabil Bin Billal's Wiki](https://nabilbinbillal.github.io/wiki/)
+- [WikiGenius](https://wikigenius.org/Nabil_Bin_Billal)
+- [IMDb](https://m.imdb.com/name/nm17032707/)
+- [IMDb Pro](https://pro.imdb.com/name/nm17032707/)
+- [Math Olympiad Profile](https://online.matholympiad.org.bd/profile/606972?%2Fprofile%2F606972=)
+- [Medium](https://medium.com/@nabilbinbillal)
+
+### 🌍 **Other Platforms:**
+- [Quora](https://www.quora.com/profile/Nabil-Bin-Billal)
+- [Flipboard](https://flipboard.com/@NabilBinBillal)
+- [Everybody Wiki](https://en.everybodywiki.com/Nabil_Bin_Billal)
+- [Mastodon](https://mastodon.social/@NabilBinBillal)
+- [Lnk.bio](https://lnk.bio/nabilbinbillal)
+
 
 ---
 <div align="center">
